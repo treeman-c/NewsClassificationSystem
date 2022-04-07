@@ -1,0 +1,26 @@
+spring:
+  application:
+    name: java-service
+  datasource:
+    druid:
+      driver-class-name: com.mysql.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/testdata_db?useUnicode=true&characterEncoding=UTF-8&useSSL=false
+      username: root
+      password: mysql
+
+
+server:
+  port: 80
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8000/eureka/
+
+mybatis-plus:
+  global-config:
+    db-config:
+      table-prefix: test
+      id-type: auto
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl   #  开启MP运行日志打印到控制台

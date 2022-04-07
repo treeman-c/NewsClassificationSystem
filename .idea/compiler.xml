@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="predict" />
+        <module name="eurekaCenter" />
+        <module name="echarts" />
+        <module name="download" />
+        <module name="sidecar" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="demo (1)" target="1.8" />
+      <module name="demo (2)" target="1.8" />
+      <module name="download" target="1.8" />
+      <module name="download (2)" target="1.8" />
+      <module name="echarts" target="1.8" />
+      <module name="echarts (1)" target="1.8" />
+      <module name="echarts (2)" target="1.8" />
+      <module name="eurekaCenter" target="1.8" />
+      <module name="predict" target="1.8" />
+      <module name="sidecar" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -6,8 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/echarts-serve-8002/echarts.iml" filepath="$PROJECT_DIR$/echarts-serve-8002/echarts.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-center-8000/eurekaCenter.iml" filepath="$PROJECT_DIR$/eureka-center-8000/eurekaCenter.iml" />
       <module fileurl="file://$PROJECT_DIR$/predict-server-80/predict.iml" filepath="$PROJECT_DIR$/predict-server-80/predict.iml" />
-      <module fileurl="file://$PROJECT_DIR$/python/python.iml" filepath="$PROJECT_DIR$/python/python.iml" />
       <module fileurl="file://$PROJECT_DIR$/netflix-sidecar-8001/sidecar.iml" filepath="$PROJECT_DIR$/netflix-sidecar-8001/sidecar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud-python-master.iml" filepath="$PROJECT_DIR$/.idea/springcloud-python-master.iml" />
     </modules>
   </component>
 </project>

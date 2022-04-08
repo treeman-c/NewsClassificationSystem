@@ -1,37 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c9ef98b-acd2-4c6b-a74f-d21dab01c99d" name="Default Changelist" comment="" />
+    <list default="true" id="f1922755-edd3-4c7b-bc9d-c49fc7d3de0e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/download-serve-8003/src/main/resources/downloadfile/newdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/api/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/conf/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/public/learn.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/public/learn1.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/public/learn2.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/public/learn3.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/src/assets/image/app-introduce/origin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/src/assets/image/app-introduce/step1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/src/assets/image/app-introduce/step2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/src/assets/image/headImg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/src/components/CommonAside.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/src/components/CommonFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/src/components/CommonHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/store/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/view/charts/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/view/download/application/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/view/download/dataset/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/view/home/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/view/predict/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/view/vueHome.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/api/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/conf/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/public/learn.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/public/learn1.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/public/learn2.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/public/learn3.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/src/assets/image/app-introduce/origin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/src/assets/image/app-introduce/step1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/src/assets/image/app-introduce/step2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/src/assets/image/headImg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/src/components/CommonAside.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/src/components/CommonFooter.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/src/components/CommonHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/store/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/view/charts/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/view/download/application/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/view/download/dataset/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/view/home/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/view/predict/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue-project/view/vueHome.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2022-03-28T124241.500.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2022-03-28T124415.500.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2022-03-30T053050.500.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2022-03-30T053108.500.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/springcloud-python-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/springcloud-python-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/download-serve-8003/src/main/java/com/classify/download/controller/DownloadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/download-serve-8003/src/main/java/com/classify/download/controller/DownloadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/download-serve-8003/target/classes/com/classify/download/controller/DownloadController.class" beforeDir="false" afterPath="$PROJECT_DIR$/download-serve-8003/target/classes/com/classify/download/controller/DownloadController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netflix-sidecar-8001/sidecar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/netflix-sidecar-8001/sidecar.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project" beforeDir="false" afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/predict-server-80/src/main/resources/vue-project/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/jsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/view/download/dataset/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/view/download/dataset/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/view/home/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/view/home/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/predict-server-80/target/classes/vue-project/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue-project/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-project/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue-project/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-project/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-project/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-project/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-project/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-project/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-project/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-project/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue-project/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-project/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/vue-project/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/java-service/src/main/resources/vue-project" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vue-project" />
   </component>
-  <component name="JsFlowSettings">
-    <service-enabled>true</service-enabled>
-    <exe-path />
-    <other-services-enabled>true</other-services-enabled>
-    <auto-save>true</auto-save>
+  <component name="ProjectId" id="27Uc2nbd39wtKMlpODwPpZI9tDi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectId" id="26uWLFCDw6VLq47hmMIoHyEJdSO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelOrder2" value="2" />
@@ -39,59 +134,118 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_directory_selection" value="E:/PyCharm 2021.3.1/work/echarts/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/download-serve-8003" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/download-serve-8003/src/main/resources/downloadfile" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\work\springcloud-python-master\download\src\main\java\com\classify\download" />
-      <recent name="E:\work\springcloud-python-master\java-service\src\main\resources\vue-project\public" />
-      <recent name="E:\PyCharm 2021.3.1\work\download\src\main\resources\downloadfile" />
-      <recent name="E:\PyCharm 2021.3.1\work\download\src\main\resources" />
-      <recent name="E:\work\springcloud-python-master\java-service\src\main\resources\vue-project\src\assets\image\project-introduce" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.classify.download.config" />
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\work\springcloud-python-master\download" />
-      <recent name="E:\work\springcloud-python-master\java-service\src\main\resources\vue-project\public" />
-      <recent name="E:\work\springcloud-python-master\java-service\src\main\resources\vue-project\dist" />
-      <recent name="E:\work\springcloud-python-master\java-service\src\main\resources\vue-project\view\download\dataset" />
-      <recent name="E:\work\springcloud-python-master\java-service\src\main\resources\vue-project\view\download\application" />
+      <recent name="E:\work\springcloud-python-master\download-serve-8003\src\main\resources\downloadfile" />
     </key>
   </component>
-  <component name="RestClientSettings">
-    <option name="REQUEST_HISTORY">
-      <list>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:80/bayes_url" />
-          <option name="urlPath" value="" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://localhost:8002/getText" />
-          <option name="urlPath" value="" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Spring Boot.DownloadApplication">
+  <component name="RunManager" selected="Spring Boot.PySidecarApplication">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="echarts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="echarts" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="echarts" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="echarts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="python-service" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
+      <module name="springcloud-python-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -112,35 +266,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="eurekaCenter" />
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="echarts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DownloadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="download" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="PATTERN" value="com.classify.download.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
-      <module name="demo" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DownloadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="download" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.classify.download.DownloadApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PySidecarApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="PySidecarApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="sidecar" />
       <extension name="coverage">
         <pattern>
@@ -153,15 +305,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PySidecarApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
-      <module name="demo" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.PySidecarApplication" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RibbonChartApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="RibbonChartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="echarts" />
       <extension name="coverage">
         <pattern>
@@ -174,14 +318,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RibbonChartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="echarts (2)" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.classification.demo.RibbonChartApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RibbonConsumerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="RibbonConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="predict" />
       <extension name="coverage">
         <pattern>
@@ -194,33 +331,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RibbonConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
-      <module name="demo (1)" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.RibbonConsumerApplication" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="echarts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Spring Boot.DemoApplication" />
-      <item itemvalue="Spring Boot.PySidecarApplication" />
-      <item itemvalue="Spring Boot.RibbonConsumerApplication" />
-      <item itemvalue="Spring Boot.DownloadApplication" />
-      <item itemvalue="Spring Boot.RibbonConsumerApplication (1)" />
-      <item itemvalue="Spring Boot.RibbonChartApplication" />
-      <item itemvalue="Spring Boot.DemoApplication (1)" />
-      <item itemvalue="Python.python-service" />
-      <item itemvalue="Spring Boot.PySidecarApplication (1)" />
-      <item itemvalue="Spring Boot.RibbonChartApplication (1)" />
-    </list>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="echarts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="echarts" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.RibbonConsumerApplication (1)" />
-        <item itemvalue="Spring Boot.RibbonChartApplication (1)" />
-        <item itemvalue="Spring Boot.PySidecarApplication (1)" />
+        <item itemvalue="Spring Boot.PySidecarApplication" />
+        <item itemvalue="Spring Boot.DownloadApplication" />
+        <item itemvalue="Spring Boot.RibbonChartApplication" />
+        <item itemvalue="Spring Boot.RibbonConsumerApplication" />
         <item itemvalue="Python.python-service" />
-        <item itemvalue="Spring Boot.DemoApplication (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -241,48 +404,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8c9ef98b-acd2-4c6b-a74f-d21dab01c99d" name="Default Changelist" comment="" />
-      <created>1648273896597</created>
+      <changelist id="f1922755-edd3-4c7b-bc9d-c49fc7d3de0e" name="Default Changelist" comment="" />
+      <created>1649377909610</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1648273896597</updated>
-      <workItem from="1648273919928" duration="1343000" />
-      <workItem from="1648275499429" duration="1237000" />
-      <workItem from="1648348140698" duration="1089000" />
-      <workItem from="1648365859924" duration="2343000" />
-      <workItem from="1648428864922" duration="1341000" />
-      <workItem from="1648430312806" duration="664000" />
-      <workItem from="1648439886609" duration="3188000" />
-      <workItem from="1648514520850" duration="2172000" />
-      <workItem from="1648517083986" duration="6352000" />
-      <workItem from="1648539383580" duration="404000" />
-      <workItem from="1648539863147" duration="1194000" />
-      <workItem from="1648557950887" duration="1616000" />
-      <workItem from="1648603284850" duration="4950000" />
-      <workItem from="1648613403762" duration="28000" />
-      <workItem from="1648613840831" duration="2654000" />
-      <workItem from="1648616952758" duration="3116000" />
-      <workItem from="1648627349695" duration="12144000" />
-      <workItem from="1648685779171" duration="17000" />
-      <workItem from="1648685986482" duration="5555000" />
-      <workItem from="1648708891078" duration="12051000" />
-      <workItem from="1648772728091" duration="210000" />
-      <workItem from="1648773020766" duration="757000" />
-      <workItem from="1648774014324" duration="9783000" />
-      <workItem from="1648786284611" duration="17570000" />
-      <workItem from="1648857653862" duration="13606000" />
-      <workItem from="1648898271134" duration="1373000" />
-      <workItem from="1648946621237" duration="6447000" />
-      <workItem from="1648974293096" duration="6436000" />
-      <workItem from="1649029161804" duration="9000" />
-      <workItem from="1649029352554" duration="25564000" />
-      <workItem from="1649078703669" duration="4353000" />
-      <workItem from="1649115519785" duration="23626000" />
-      <workItem from="1649159284424" duration="505000" />
-      <workItem from="1649159962945" duration="294000" />
-      <workItem from="1649207769986" duration="735000" />
-      <workItem from="1649216943062" duration="15458000" />
-      <workItem from="1649295015792" duration="6373000" />
+      <updated>1649377909610</updated>
+      <workItem from="1649377939840" duration="3756000" />
     </task>
     <servers />
   </component>
@@ -290,124 +417,60 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="276" y="22" key="#Inspections" timestamp="1648517476357">
+    <state x="276" y="22" key="#ESLint" timestamp="1649379553844">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="276" y="22" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1648517476357" />
-    <state x="276" y="22" key="#Project_Structure" timestamp="1649159417659">
+    <state x="276" y="22" key="#ESLint/0.0.1366.728@0.0.1366.728" timestamp="1649379553844" />
+    <state x="522" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1649377722399">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="276" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1649159417659" />
-    <state x="387" y="0" key="#TrainText" timestamp="1648954335621">
+    <state x="522" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1649377722399" />
+    <state x="387" y="0" key="#python-service" timestamp="1649378661363">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="387" y="0" key="#TrainText/0.0.1366.728@0.0.1366.728" timestamp="1648954335621" />
-    <state x="138" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648539775054">
+    <state x="387" y="0" key="#python-service/0.0.1366.728@0.0.1366.728" timestamp="1649378661363" />
+    <state x="464" y="54" key="FileChooserDialogImpl" timestamp="1649378322542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="138" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1648539775054" />
-    <state x="408" y="153" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1648781519986">
+    <state x="464" y="54" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1649378322542" />
+    <state width="1306" height="155" key="GridCell.Tab.0.bottom" timestamp="1649380744483">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="408" y="153" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1648781519986" />
-    <state x="489" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1648807586392">
+    <state width="1306" height="155" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1649380744483" />
+    <state width="1306" height="155" key="GridCell.Tab.0.center" timestamp="1649380744482">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="489" y="67" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1648807586392" />
-    <state x="522" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1648274073693">
+    <state width="1306" height="155" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1649380744482" />
+    <state width="1306" height="155" key="GridCell.Tab.0.left" timestamp="1649380744482">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="522" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1648274073693" />
-    <state x="210" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1649217684308">
+    <state width="1306" height="155" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1649380744482" />
+    <state width="1306" height="155" key="GridCell.Tab.0.right" timestamp="1649380744483">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="210" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1649217684308" />
-    <state x="387" y="0" key="#python-service" timestamp="1649300195161">
+    <state width="1306" height="155" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1649380744483" />
+    <state width="1306" height="155" key="GridCell.Tab.1.bottom" timestamp="1649380744484">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="387" y="0" key="#python-service/0.0.1366.728@0.0.1366.728" timestamp="1649300195161" />
-    <state x="405" y="175" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1649081739288">
+    <state width="1306" height="155" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1649380744484" />
+    <state width="1306" height="155" key="GridCell.Tab.1.center" timestamp="1649380744483">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="405" y="175" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1649081739288" />
-    <state x="464" y="53" key="FileChooserDialogImpl" timestamp="1649300648167">
+    <state width="1306" height="155" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1649380744483" />
+    <state width="1306" height="155" key="GridCell.Tab.1.left" timestamp="1649380744483">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="464" y="53" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1649300648167" />
-    <state width="1306" height="155" key="GridCell.Tab.0.bottom" timestamp="1649302527239">
+    <state width="1306" height="155" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1649380744483" />
+    <state width="1306" height="155" key="GridCell.Tab.1.right" timestamp="1649380744484">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="155" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1649302527239" />
-    <state width="1306" height="155" key="GridCell.Tab.0.center" timestamp="1649302527239">
+    <state width="1306" height="155" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1649380744484" />
+    <state x="164" y="0" key="SettingsEditor" timestamp="1649378571843">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="155" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1649302527239" />
-    <state width="1306" height="155" key="GridCell.Tab.0.left" timestamp="1649302527238">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1306" height="155" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1649302527238" />
-    <state width="1306" height="155" key="GridCell.Tab.0.right" timestamp="1649302527239">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1306" height="155" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1649302527239" />
-    <state width="1306" height="155" key="GridCell.Tab.1.bottom" timestamp="1649302527240">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1306" height="155" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1649302527240" />
-    <state width="1306" height="155" key="GridCell.Tab.1.center" timestamp="1649302527239">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1306" height="155" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1649302527239" />
-    <state width="1306" height="155" key="GridCell.Tab.1.left" timestamp="1649302527239">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1306" height="155" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1649302527239" />
-    <state width="1306" height="155" key="GridCell.Tab.1.right" timestamp="1649302527240">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1306" height="155" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1649302527240" />
-    <state width="1306" height="197" key="GridCell.Tab.2.bottom" timestamp="1649029814007">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1306" height="197" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1649029814007" />
-    <state width="1306" height="197" key="GridCell.Tab.2.center" timestamp="1649029814007">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1306" height="197" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1649029814007" />
-    <state width="1306" height="197" key="GridCell.Tab.2.left" timestamp="1649029814007">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1306" height="197" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1649029814007" />
-    <state width="1306" height="197" key="GridCell.Tab.2.right" timestamp="1649029814007">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1306" height="197" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1649029814007" />
-    <state x="214" y="19" key="Maven.ArtifactSearchDialog" timestamp="1649131679416">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="214" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1649131679416" />
-    <state x="324" y="0" key="NewModule_or_Project.wizard" timestamp="1649300650495">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="324" y="0" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1649300650495" />
-    <state x="164" y="0" key="SettingsEditor" timestamp="1649300659208">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="164" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1649300659208" />
-    <state x="483" y="141" key="chooseDestDirectoryDialog" timestamp="1649036758652">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="483" y="141" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1649036758652" />
-    <state x="59" y="0" key="new project wizard" timestamp="1649126488695">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="59" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1649126488695" />
-    <state x="347" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1648606576748">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="347" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1648606576748" />
+    <state x="164" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1649378571843" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/springcloud_python_master$python_service.coverage" NAME="python-service Coverage Results" MODIFIED="1649300195185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/springcloud_python_master$python_service.coverage" NAME="python-service Coverage Results" MODIFIED="1649378661989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
   </component>
 </project>

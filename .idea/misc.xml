@@ -6,12 +6,11 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/py-sidecar/pom.xml" />
-        <option value="$PROJECT_DIR$/predict-server-80/pom.xml" />
+        <option value="$PROJECT_DIR$/download-serve-8003/pom.xml" />
+        <option value="$PROJECT_DIR$/echarts-serve-8002/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-center-8000/pom.xml" />
         <option value="$PROJECT_DIR$/netflix-sidecar-8001/pom.xml" />
-        <option value="$PROJECT_DIR$/echarts-serve-8002/pom.xml" />
-        <option value="$PROJECT_DIR$/download-serve-8003/pom.xml" />
+        <option value="$PROJECT_DIR$/predict-server-80/pom.xml" />
       </list>
     </option>
   </component>

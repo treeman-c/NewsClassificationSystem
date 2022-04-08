@@ -25,6 +25,11 @@ public class DownloadController {
     @Autowired
     private DownloadDaoImp download;
 
+    /* *
+     * @author treeman
+     * @date 2022/4/8 9:08
+     * 下载应用程序的接口，返回下载数据
+     */
     @RequestMapping(value = "/download-file", method = RequestMethod.POST)
     public HttpServletResponse GetData(HttpServletResponse response) throws IOException {
         String path = DownloadController.class.getResource("/downloadfile/newsclassify.rar").getPath();
@@ -39,6 +44,46 @@ public class DownloadController {
             System.out.println(bt);
             bf.read(bt);
             System.out.println(bf);
+            bf.close();
+            bufferedOutputStream = new BufferedOutputStream(response.getOutputStream());
+            bufferedOutputStream.write(bt);
+            bufferedOutputStream.flush();
+        }catch (Exception e){
+
+        }finally {
+            try {
+                if (bf != null) {
+                    bf.close();
+                }
+            } catch(Exception ex) {
+            }
+            try {
+                if (bufferedOutputStream != null) {
+                    bufferedOutputStream.close();
+                }
+            } catch(Exception ex) {
+            }
+        }
+        return response;
+    }
+
+
+    /* *
+     * @author treeman
+     * @date 2022/4/8 9:08
+     * 下载dataset数据集的接口，返回下载数据
+     */
+    @RequestMapping(value = "/download-dataset", method = RequestMethod.POST)
+    public HttpServletResponse getDataset(HttpServletResponse response) throws IOException {
+        String path = DownloadController.class.getResource("/downloadfile/newdata.csv").getPath();
+        BufferedInputStream bf=null;
+        BufferedOutputStream bufferedOutputStream=null;
+        try {
+            path = URLDecoder.decode(path,"utf-8");
+            File file  = new File(path);
+            bf = new BufferedInputStream(new FileInputStream(file));
+            byte[] bt = new byte[bf.available()];
+            bf.read(bt);
             bf.close();
             bufferedOutputStream = new BufferedOutputStream(response.getOutputStream());
             bufferedOutputStream.write(bt);

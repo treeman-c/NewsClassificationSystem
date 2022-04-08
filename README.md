@@ -1,2 +1,0 @@
-# NewsClassificationSystem
-springcloud整合python语言的新闻文本分类系统

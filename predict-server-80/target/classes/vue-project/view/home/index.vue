@@ -2,15 +2,19 @@
     <el-row class="home" :gutter="20">
         <el-col :span="10" style="margin-top: 20px">
             <el-card shadow="hover">
-                <div class="user">
-                    <img :src="userImg" />
+                <el-row  type="flex" justify="center">
+                    <div class="user">
+                        <img :src="userImg" />
+                    </div>
+                </el-row>
+
                     <el-descriptions title="" :column="2">
                         <el-descriptions-item label="作者">TREEMAN-C</el-descriptions-item>
                         <el-descriptions-item label="项目身份">项目作者</el-descriptions-item>
                         <el-descriptions-item label="开发时间">2022-3-21</el-descriptions-item>
-                        <el-descriptions-item label="学校">河北地质大学</el-descriptions-item>
+                        <el-descriptions-item label="学校">HBGEO</el-descriptions-item>
                     </el-descriptions>
-                </div>
+
             </el-card>
             <el-divider><i class="el-icon-info"/></el-divider>
             <el-card style="margin-top: 20px;height: 460px;">

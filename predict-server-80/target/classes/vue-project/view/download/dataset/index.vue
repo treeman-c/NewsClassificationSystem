@@ -95,7 +95,7 @@
                 this.getPageData()
             },
             changeCur(val){
-                this.current = val
+                this.currentPage = val
                 this.getPageData()
             },
             filterTag(value, row) {
@@ -105,7 +105,6 @@
                 getPageData({'current':this.currentPage,'size':this.size}).then(res=>{
                     const data= res.data
                     this.total =data.total
-                    this.currentPage=data.pages
                     this.newsData = data.records
                     console.log(res)
                 }).catch(e=>{

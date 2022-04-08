@@ -1,1 +1,0 @@
-{"timestamp":1648632668575,"status":500,"error":"Internal Server Error","exception":"org.springframework.web.client.HttpServerErrorException","message":"500 INTERNAL SERVER ERROR","path":"/bayes_url"}

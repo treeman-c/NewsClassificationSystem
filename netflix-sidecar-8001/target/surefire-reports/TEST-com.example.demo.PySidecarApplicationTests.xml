@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.demo.PySidecarApplicationTests" time="0.266" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="E:\JAVA\jre\bin"/>
+    <property name="java.vm.version" value="25.291-b10"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="E:\work\springcloud-python-master\netflix-sidecar-8001"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="E:\work\springcloud-python-master\netflix-sidecar-8001"/>
+    <property name="java.runtime.version" value="1.8.0_291-b10"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="E:\JAVA\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\treeman\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="maven.ext.class.path" value="E:\software\idea_3\ideaIU-2019.3.win(v2)\plugins\maven\lib\maven-event-listener.jar"/>
+    <property name="classworlds.conf" value="E:\software\idea_3\ideaIU-2019.3.win(v2)\plugins\maven\lib\maven3\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="E:\JAVA\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\JAVA\bin;E:\JAVA\jre;E:\PyCharm 2021.3.1\work\pythonProject\venv\Scripts;E:\Git\cmd;E:\PyCharm 2021.3.1\work\pythonProject\venv\Lib;E:\software\idea_3\ideaIU-2019.3.win(v2)\plugins\maven\lib\maven3\lib;E:\software\idea_3\ideaIU-2019.3.win(v2)\plugins\maven\lib\maven3\bin;E:\nodejs\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\treeman\AppData\Local\Microsoft\WindowsApps;;E:\PyCharm 2021.3.1\bin;;C:\Users\treeman\AppData\Roaming\npm;."/>
+    <property name="maven.conf" value="E:\software\idea_3\ideaIU-2019.3.win(v2)\plugins\maven\lib\maven3/conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\treeman"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="treeman"/>
+    <property name="java.class.path" value="E:\software\idea_3\ideaIU-2019.3.win(v2)\plugins\maven\lib\maven3\boot\plexus-classworlds-2.6.0.jar;E:\software\idea_3\ideaIU-2019.3.win(v2)\lib\idea_rt.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="E:\JAVA\jre"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version2019.3 package"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="zh"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_291"/>
+    <property name="java.ext.dirs" value="E:\JAVA\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="E:\JAVA\jre\lib\resources.jar;E:\JAVA\jre\lib\rt.jar;E:\JAVA\jre\lib\sunrsasign.jar;E:\JAVA\jre\lib\jsse.jar;E:\JAVA\jre\lib\jce.jar;E:\JAVA\jre\lib\charsets.jar;E:\JAVA\jre\lib\jfr.jar;E:\JAVA\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="E:\software\idea_3\ideaIU-2019.3.win(v2)\plugins\maven\lib\maven3"/>
+    <property name="file.separator" value="\"/>
+    <property name="idea.version2019.3" value="true"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="contextLoads" classname="com.example.demo.PySidecarApplicationTests" time="0.266"/>
+</testsuite>

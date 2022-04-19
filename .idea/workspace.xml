@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1922755-edd3-4c7b-bc9d-c49fc7d3de0e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vue-project" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27Uc2nbd39wtKMlpODwPpZI9tDi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/python" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.classify.download.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\work\springcloud-python-master\python" />
+      <recent name="E:\work\springcloud-python-master\vue-project\view\predict\predictData" />
+      <recent name="E:\work\springcloud-python-master\download-serve-8003\src\main\resources\downloadfile" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RibbonConsumerApplication">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eurekaCenter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DownloadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="download" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.classify.download.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.classify.download.DownloadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PySidecarApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="sidecar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.PySidecarApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RibbonChartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="echarts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.classification.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.classification.demo.RibbonChartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RibbonConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="predict" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.RibbonConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.RibbonConsumerApplication" />
+        <item itemvalue="Spring Boot.DownloadApplication" />
+        <item itemvalue="Spring Boot.RibbonChartApplication" />
+        <item itemvalue="Spring Boot.PySidecarApplication" />
+        <item itemvalue="Spring Boot.DemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1922755-edd3-4c7b-bc9d-c49fc7d3de0e" name="Default Changelist" comment="" />
+      <created>1649377909610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649377909610</updated>
+      <workItem from="1649377939840" duration="28314000" />
+      <workItem from="1649465936558" duration="167000" />
+      <workItem from="1649467063019" duration="515000" />
+      <workItem from="1649467823123" duration="29605000" />
+      <workItem from="1649505641512" duration="5395000" />
+      <workItem from="1649549780235" duration="14839000" />
+      <workItem from="1649579710762" duration="2394000" />
+      <workItem from="1649636550893" duration="8532000" />
+      <workItem from="1649734072720" duration="3778000" />
+      <workItem from="1649829932566" duration="763000" />
+      <workItem from="1649830874683" duration="12368000" />
+      <workItem from="1649906803347" duration="11510000" />
+      <workItem from="1649984862727" duration="1029000" />
+      <workItem from="1649987814154" duration="15000" />
+      <workItem from="1649988041506" duration="21513000" />
+      <workItem from="1650080094070" duration="8499000" />
+      <workItem from="1650157763726" duration="10933000" />
+      <workItem from="1650244201108" duration="1075000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="264" y="27" key="#New_Docker_Connection" timestamp="1650188358473">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="264" y="27" key="#New_Docker_Connection/0.0.1366.728@0.0.1366.728" timestamp="1650188358473" />
+    <state x="386" y="0" key="#TrainText" timestamp="1649988259083">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="386" y="0" key="#TrainText/0.0.1366.728@0.0.1366.728" timestamp="1649988259083" />
+    <state x="402" y="0" key="#baiduSpider" timestamp="1649988424595">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="0" key="#baiduSpider/0.0.1366.728@0.0.1366.728" timestamp="1649988424595" />
+    <state x="639" y="277" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1650083908768">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="639" y="277" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1366.728@0.0.1366.728" timestamp="1650083908768" />
+    <state x="440" y="0" key="#orderSpider" timestamp="1649993201467">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="440" y="0" key="#orderSpider/0.0.1366.728@0.0.1366.728" timestamp="1649993201467" />
+    <state x="375" y="0" key="#python-service" timestamp="1650173404594">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="0" key="#python-service/0.0.1366.728@0.0.1366.728" timestamp="1650173404594" />
+    <state width="1191" height="128" key="GridCell.Tab.0.bottom" timestamp="1650188365792">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1191" height="128" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1650188365792" />
+    <state width="1191" height="128" key="GridCell.Tab.0.center" timestamp="1650188365792">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1191" height="128" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1650188365792" />
+    <state width="1191" height="128" key="GridCell.Tab.0.left" timestamp="1650188365792">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1191" height="128" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1650188365792" />
+    <state width="1191" height="128" key="GridCell.Tab.0.right" timestamp="1650188365792">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1191" height="128" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1650188365792" />
+    <state width="1191" height="128" key="GridCell.Tab.1.bottom" timestamp="1650188365792">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1191" height="128" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1650188365792" />
+    <state width="1191" height="128" key="GridCell.Tab.1.center" timestamp="1650188365792">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1191" height="128" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1650188365792" />
+    <state width="1191" height="128" key="GridCell.Tab.1.left" timestamp="1650188365792">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1191" height="128" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1650188365792" />
+    <state width="1191" height="128" key="GridCell.Tab.1.right" timestamp="1650188365792">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1191" height="128" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1650188365792" />
+    <state x="173" y="11" key="SettingsEditor" timestamp="1650188266587">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="173" y="11" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1650188266587" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/springcloud_python_master$python_service.coverage" NAME="python-service Coverage Results" MODIFIED="1649663541632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/springcloud_python_master$baiduSpider.coverage" NAME="baiduSpider Coverage Results" MODIFIED="1649750374877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/baiduSpider_py$baiduSpider.coverage" NAME="baiduSpider Coverage Results" MODIFIED="1650000347857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/baiduSpider_py$orderSpider.coverage" NAME="orderSpider Coverage Results" MODIFIED="1650166092555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/baiduSpider_py$python_service.coverage" NAME="python-service Coverage Results" MODIFIED="1650173404657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/baiduSpider_py$NewsSpider.coverage" NAME="NewsSpider Coverage Results" MODIFIED="1649985182662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/springcloud_python_master$TrainText.coverage" NAME="TrainText Coverage Results" MODIFIED="1649553463183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/springcloud_python_master$NewsSpider.coverage" NAME="NewsSpider Coverage Results" MODIFIED="1649735248346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/baiduSpider_py$TrainText.coverage" NAME="TrainText Coverage Results" MODIFIED="1650171737531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+  </component>
+</project>

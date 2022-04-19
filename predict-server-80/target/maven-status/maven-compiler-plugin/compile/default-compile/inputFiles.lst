@@ -1,0 +1,13 @@
+E:\work\springcloud-python-master\predict-server-80\src\main\java\com\example\demo\server\IPredict.java
+E:\work\springcloud-python-master\predict-server-80\src\main\java\com\example\demo\dao\ClassificationDao.java
+E:\work\springcloud-python-master\predict-server-80\src\main\java\com\example\demo\pojo\Predict.java
+E:\work\springcloud-python-master\predict-server-80\src\main\java\com\example\demo\config\MPConfig.java
+E:\work\springcloud-python-master\predict-server-80\src\main\java\com\example\demo\server\IClassification.java
+E:\work\springcloud-python-master\predict-server-80\src\main\java\com\example\demo\server\Imp\PredictServeImp.java
+E:\work\springcloud-python-master\predict-server-80\src\main\java\com\example\demo\dao\PredictDao.java
+E:\work\springcloud-python-master\predict-server-80\src\main\java\com\example\demo\server\Imp\ClassificationImp.java
+E:\work\springcloud-python-master\predict-server-80\src\main\java\com\example\demo\config\RedisConf.java
+E:\work\springcloud-python-master\predict-server-80\src\main\java\com\example\demo\pojo\Classification.java
+E:\work\springcloud-python-master\predict-server-80\src\main\java\com\example\demo\RibbonConsumerApplication.java
+E:\work\springcloud-python-master\predict-server-80\src\main\java\com\example\demo\JavaController.java
+E:\work\springcloud-python-master\predict-server-80\src\main\java\com\example\demo\aop\ControllerAOP.java

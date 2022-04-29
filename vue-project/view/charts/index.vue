@@ -18,12 +18,12 @@
 
         <el-row :gutter="2">
             <el-col :span="12">
-                <el-card style="width:600px;height: 300px">
+                <el-card style="width:650px;height: 300px">
                     <div style="width:600px;height: 300px" ref="left"></div>
                 </el-card>
             </el-col>
             <el-col :span="12">
-                <el-card style="width:600px;height: 300px">
+                <el-card style="width:650px;height: 300px">
                     <div style="width:600px;height: 300px" ref="right"></div>
                 </el-card>
             </el-col>
@@ -59,6 +59,11 @@
                     const E = echarts.init(this.$refs.top)
                         E.setOption({
                             title: { text: 'precision准确率' },
+                            toolbox:{
+                                feature:{
+                                    saveAsImage:{}
+                                }
+                            },
                             tooltip: {},
                             xAxis: {
                                 data: pre[0].slice(1)
@@ -76,6 +81,11 @@
                     R.setOption({
                         title: { text: 'recall召回率' },
                         tooltip: {},
+                        toolbox:{
+                            feature:{
+                                saveAsImage:{}
+                            }
+                        },
                         xAxis: {
                             data: rel[0].slice(1)
                         },
@@ -92,6 +102,11 @@
                     F.setOption({
                         title: { text: 'f1得分' },
                         tooltip: {},
+                        toolbox:{
+                            feature:{
+                                saveAsImage:{}
+                            }
+                        },
                         xAxis: {
                             data: f1[0].slice(1)
                         },

@@ -3,84 +3,84 @@ import axios from "./index";
 
 export const  getMenu = (param)=>{
     return axios.request({
-        url:'http://localhost/java-user',
+        url:'http://localhost:8004/java-user',
     method:'post',
     data:param
 })
 };
 export const  bayes_url= (param)=>{
     return axios.request({
-    url:'http://localhost/bayes-url',
+    url:'http://localhost:8004/bayes-url',
     method:'post',
     data:param
 })
 };
 export const  bayes_text= (param)=>{
     return axios.request({
-        url:'http://localhost/bayes-text',
+        url:'http://localhost:8004/bayes-text',
         method:'post',
         data:param
     })
 };
 export const  svm_url= (param)=>{
     return axios.request({
-        url:'http://localhost/svm-url',
+        url:'http://localhost:8004/svm-url',
         method:'post',
         data:param
     })
 };
 export const  svm_text= (param)=>{
     return axios.request({
-        url:'http://localhost/svm-text',
+        url:'http://localhost:8004/svm-text',
         method:'post',
         data:param
     })
 };
 export const  knn_url= (param)=>{
     return axios.request({
-        url:'http://localhost/knn-url',
+        url:'http://localhost:8004/knn-url',
         method:'post',
         data:param
     })
 };
 export const  knn_text= (param)=>{
     return axios.request({
-        url:'http://localhost/knn-text',
+        url:'http://localhost:8004/knn-text',
         method:'post',
         data:param
     })
 };
 export const  bp_url= (param)=>{
     return axios.request({
-        url:'http://localhost/bp-url',
+        url:'http://localhost:8004/bp-url',
         method:'post',
         data:param
     })
 };
 export const  bp_text= (param)=>{
     return axios.request({
-        url:'http://localhost/bp-text',
+        url:'http://localhost:8004/bp-text',
         method:'post',
         data:param
     })
 };
 export const  updataById= (param)=>{
     return axios.request({
-        url:'http://localhost/updataById',
+        url:'http://localhost:8004/updataById',
         method:'post',
         data:param
     })
 };
 export const  deleteById= (param)=>{
     return axios.request({
-        url:'http://localhost/deleteById',
+        url:'http://localhost:8004/deleteById',
         method:'post',
         data:param
     })
 };
 export const  getPredictData= (param)=>{
     return axios.request({
-        url:'http://localhost/predictData',
+        url:'http://localhost:8004/predictData',
         method:'post',
         data:param
     })
@@ -88,7 +88,7 @@ export const  getPredictData= (param)=>{
 
 export const  findByOrder= (param)=>{
     return axios.request({
-        url:'http://localhost/findByOrder',
+        url:'http://localhost:8004/findByOrder',
         method:'post',
         data:param
     })
@@ -134,7 +134,7 @@ export const  getData= ()=>{
 };
 export const  in_text= (param)=>{
     return axios.request({
-        url:'http://localhost/intelligent-text',
+        url:'http://localhost:8004/intelligent-text',
         method:'post',
         data:param
     })

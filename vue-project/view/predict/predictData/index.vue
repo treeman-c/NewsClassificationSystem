@@ -286,10 +286,11 @@
                     'size':this.size
                 };
                 findByOrder(temp).then(res=>{
+                    console.log(res)
                     const data= res.data
                     this.total =data.total
                     this.newsData = data.records
-                    console.log(res)
+
                 }).catch(e=>{
                     console.log(e)
                 })

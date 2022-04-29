@@ -6,13 +6,13 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/download-serve-8003/pom.xml" />
-        <option value="$PROJECT_DIR$/echarts-serve-8002/pom.xml" />
-        <option value="$PROJECT_DIR$/eureka-center-8000/pom.xml" />
+        <option value="$PROJECT_DIR$/predict-server-8004/pom.xml" />
         <option value="$PROJECT_DIR$/netflix-sidecar-8001/pom.xml" />
-        <option value="$PROJECT_DIR$/predict-server-80/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-center-8000/pom.xml" />
+        <option value="$PROJECT_DIR$/echarts-serve-8002/pom.xml" />
+        <option value="$PROJECT_DIR$/download-serve-8003/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>

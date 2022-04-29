@@ -24,10 +24,7 @@
                 <el-table-column
                         prop="type"
                         label="新闻类别"
-                        width="100"
-                        :filters="newstype"
-                        :filter-method="filterTag"
-                        filter-placement="bottom-end">
+                        width="100"><!-- :filters="newstype" :filter-method="filterTag" filter-placement="bottom-end"-->
                     <template slot-scope="scope">
                         <el-tag
                                 type="success"

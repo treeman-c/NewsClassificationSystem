@@ -6,6 +6,9 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 import java.io.*;
 import java.net.URLDecoder;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Scanner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = DownloadApplication.class)
@@ -25,4 +28,5 @@ public class Testqw {
         bf.close();
 
     }
+
 }
